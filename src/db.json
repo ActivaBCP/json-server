@@ -5,14 +5,14 @@
       "created_at": "2026-05-24T13:59:45.123456",
       "categoria": "Medio ambiente o áreas verdes",
       "nombre": "Parque Central Limpio",
-      "descripcion": "Jornada comunitaria para revitalizar las áreas verdes del pulmón central de nuestro barrio.",
-      "etapa_actual": "Acción",
-      "progreso": 65,
-      "lugar": "La Victoria, Lima",
-      "creado_por": "Elena Martínez",
-      "miembros": 24,
+      "descripcion": "Restaurando el pulmón verde de nuestra comunidad a través de la acción ciudadana organizada y el cuidado sostenible.",
+      "etapa_actual": "Idea",
+      "progreso": 43,
+      "lugar": "San Juan de Lurigancho",
+      "creado_por": "Sofia García",
+      "miembros": 25,
       "unida": true,
-      "imagen":"https://radionacional-v3.s3.amazonaws.com/s3fs-public/node/article/field_image/grupo-voluntarios-recogiendo-basura.jpg",
+      "imagen": "https://radionacional-v3.s3.amazonaws.com/s3fs-public/node/article/field_image/grupo-voluntarios-recogiendo-basura.jpg",
       "actualizaciones": [
         {
           "id": 1,
@@ -89,28 +89,143 @@
           "nombre": "Mateo León",
           "email": "mateo@activa.pe",
           "imagen": "https://i.pravatar.cc/150?img=4"
+        },
+        {
+          "id": 1,
+          "nombre": "Luciana Ochoa",
+          "email": "lucianaochoa@activa.org",
+          "imagen": "https://i.pravatar.cc/300?img=47"
         }
       ],
       "etapas": [
         {
           "nombre": "Idea",
-          "tareas": ["Definición"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Preparar Carta de Solicitud de Apoyo",
+              "descripcion": "Redacta el pedido de donación de plantones utilizando la plantilla oficial de ACTIVA. Ajusta el número según las áreas libres.",
+              "notas": "Plantilla enviada al grupo de WhatsApp. Pendiente revisión de Elena.",
+              "estado": "COMPLETADO"
+            },
+            {
+              "id": 2,
+              "numero": 2,
+              "titulo": "Presentar Solicitud a la Municipalidad",
+              "descripcion": "Dirígete a la Gerencia de Participación Vecinal o Mesa de partes. Usa el script para explicar la iniciativa en 2 minutos.",
+              "notas": "Cita confirmada para el martes 10am en mesa de partes.",
+              "estado": "COMPLETADO"
+            },
+            {
+              "id": 3,
+              "numero": 3,
+              "titulo": "Coordinar con la Junta Vecinal de Campoy",
+              "descripcion": "Contacta al presidente de la Junta Vecinal (mediante WhatsApp directo brindado) para sumarlos a la limpieza comunitaria.",
+              "notas": "hola soy un apunte",
+              "estado": "COMPLETADO"
+            },
+            {
+              "id": 4,
+              "numero": 4,
+              "titulo": "Jornada de Reforestación y Fotos",
+              "descripcion": "Organiza el sábado de plantación. Recuerda tomar una fotografía grupal del antes y el después para subir como evidencia final.",
+              "notas": "",
+              "estado": "COMPLETADO"
+            },
+            {
+              "id": 5,
+              "numero": 5,
+              "titulo": "Suave Suavecito",
+              "descripcion": "hola",
+              "notas": "",
+              "estado": "COMPLETADO"
+            },
+            {
+              "id": 8,
+              "numero": 6,
+              "titulo": "Nuevo paso",
+              "descripcion": "nuevo",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
         },
         {
           "nombre": "Validación",
-          "tareas": ["Permisos locales"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Permisos locales",
+              "descripcion": "",
+              "notas": "hola",
+              "estado": "PENDIENTE"
+            },
+            {
+              "id": 6,
+              "numero": 2,
+              "titulo": "miau",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
         },
         {
           "nombre": "Organización",
-          "tareas": ["Roles definidos"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Roles definidos",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            },
+            {
+              "id": 7,
+              "numero": 2,
+              "titulo": "Paso 2",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
         },
         {
           "nombre": "Acción",
-          "tareas": ["Compra de herramientas", "Convocatoria"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Compra de herramientas",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            },
+            {
+              "id": 2,
+              "numero": 2,
+              "titulo": "Convocatoria",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
         },
         {
           "nombre": "Impacto",
-          "tareas": ["Reporte final"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Reporte final",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
         }
       ]
     },
@@ -118,12 +233,13 @@
       "id": 2,
       "created_at": "2026-05-24T13:59:45.123456",
       "categoria": "Educación o talleres",
-      "nombre": "Talleres de Robótica",
-      "descripcion": "Iniciativa para acercar la tecnología y la programación a jóvenes de escasos recursos.",
-      "etapa_actual": "Organización",
-      "progreso": 40,
+      "nombre": "Código Comunitario",
+      "descripcion": "Alfabetización digital para niños en riesgo de exclusión social.",
+      "etapa_actual": "Acción",
+      "progreso": 55,
       "lugar": "Surco, Lima",
-      "creado_por": "Marcos Ruiz",
+      "creado_por": "Luciana Ochoa",
+      "visibilidad": "publica",
       "miembros": 12,
       "participantes": [
         {
@@ -152,27 +268,102 @@
         }
       ],
       "unida": false,
-      "imagen":"https://fabricum.pucp.edu.pe/wp-content/uploads/2025/11/web-robotica-y-prototipado.jpg",
+      "imagen": "https://fabricum.pucp.edu.pe/wp-content/uploads/2025/11/web-robotica-y-prototipado.jpg",
       "etapas": [
         {
           "nombre": "Idea",
-          "tareas": ["Definición"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Definición",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
         },
         {
           "nombre": "Validación",
-          "tareas": ["Permisos locales"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Permisos locales",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
         },
         {
           "nombre": "Organización",
-          "tareas": ["Roles definidos", "Asignación de instructores"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Roles definidos",
+              "descripcion": "",
+              "notas": "",
+              "estado": "COMPLETADO"
+            },
+            {
+              "id": 2,
+              "numero": 2,
+              "titulo": "Asignación de instructores",
+              "descripcion": "Confirmar docentes voluntarios para cada módulo.",
+              "notas": "",
+              "estado": "COMPLETADO"
+            }
+          ]
         },
         {
           "nombre": "Acción",
-          "tareas": ["Compra de materiales", "Convocatoria de estudiantes"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Compra de materiales",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            },
+            {
+              "id": 2,
+              "numero": 2,
+              "titulo": "Convocatoria de estudiantes",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
         },
         {
           "nombre": "Impacto",
-          "tareas": ["Reporte final"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Reporte final",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
+        }
+      ],
+      "actualizaciones": [
+        {
+          "id": 1,
+          "autor": "Luciana Ochoa",
+          "avatarUrl": "https://i.pravatar.cc/300?img=47",
+          "rol": "Líder del proyecto",
+          "fechaRelativa": "Hace un momento",
+          "texto": "Hoy hicimos nuestro primer hello world!",
+          "imagenUrl": "https://res.cloudinary.com/deztf4i3w/image/upload/v1779662299/activa/iniciativas/qhxelgrpkgsknprg1qgk.png",
+          "likes": 0,
+          "comentarios": [],
+          "likedByMe": false
         }
       ]
     },
@@ -214,27 +405,39 @@
       ],
       "miembros": 45,
       "unida": true,
-      "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24_DYKblEOaetEJGDw9HHB5wU47nRJPzUWw&s",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24_DYKblEOaetEJGDw9HHB5wU47nRJPzUWw&s",
       "etapas": [
         {
           "nombre": "Idea",
-          "tareas": ["Definición"]
+          "tareas": [
+            "Definición"
+          ]
         },
         {
           "nombre": "Validación",
-          "tareas": ["Permisos locales"]
+          "tareas": [
+            "Permisos locales"
+          ]
         },
         {
           "nombre": "Organización",
-          "tareas": ["Roles definidos"]
+          "tareas": [
+            "Roles definidos"
+          ]
         },
         {
           "nombre": "Acción",
-          "tareas": ["Reparación de cancha", "Convocatoria de equipos"]
+          "tareas": [
+            "Reparación de cancha",
+            "Convocatoria de equipos"
+          ]
         },
         {
           "nombre": "Impacto",
-          "tareas": ["Evaluación de participación", "Reporte final"]
+          "tareas": [
+            "Evaluación de participación",
+            "Reporte final"
+          ]
         }
       ]
     },
@@ -276,27 +479,39 @@
         }
       ],
       "unida": false,
-      "imagen":"https://www.altagracianoticias.com/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-18-at-10.40.00-960x641.jpeg",
+      "imagen": "https://www.altagracianoticias.com/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-18-at-10.40.00-960x641.jpeg",
       "etapas": [
         {
           "nombre": "Idea",
-          "tareas": ["Definición"]
+          "tareas": [
+            "Definición"
+          ]
         },
         {
           "nombre": "Validación",
-          "tareas": ["Permisos municipales", "Evaluación técnica"]
+          "tareas": [
+            "Permisos municipales",
+            "Evaluación técnica"
+          ]
         },
         {
           "nombre": "Organización",
-          "tareas": ["Roles definidos"]
+          "tareas": [
+            "Roles definidos"
+          ]
         },
         {
           "nombre": "Acción",
-          "tareas": ["Compra de luminarias", "Instalación piloto"]
+          "tareas": [
+            "Compra de luminarias",
+            "Instalación piloto"
+          ]
         },
         {
           "nombre": "Impacto",
-          "tareas": ["Reporte final"]
+          "tareas": [
+            "Reporte final"
+          ]
         }
       ]
     },
@@ -338,27 +553,39 @@
         }
       ],
       "unida": false,
-      "imagen":"https://media.foodandtravel.mx/wp-content/uploads/2015/12/harbin.jpg",
+      "imagen": "https://media.foodandtravel.mx/wp-content/uploads/2015/12/harbin.jpg",
       "etapas": [
         {
           "nombre": "Idea",
-          "tareas": ["Definición"]
+          "tareas": [
+            "Definición"
+          ]
         },
         {
           "nombre": "Validación",
-          "tareas": ["Permisos locales"]
+          "tareas": [
+            "Permisos locales"
+          ]
         },
         {
           "nombre": "Organización",
-          "tareas": ["Roles definidos", "Selección de artistas"]
+          "tareas": [
+            "Roles definidos",
+            "Selección de artistas"
+          ]
         },
         {
           "nombre": "Acción",
-          "tareas": ["Montaje de escenario", "Convocatoria de público"]
+          "tareas": [
+            "Montaje de escenario",
+            "Convocatoria de público"
+          ]
         },
         {
           "nombre": "Impacto",
-          "tareas": ["Reporte final"]
+          "tareas": [
+            "Reporte final"
+          ]
         }
       ]
     },
@@ -366,12 +593,13 @@
       "id": 6,
       "created_at": "2026-05-24T13:59:45.123456",
       "categoria": "Inclusión y bienestar social",
-      "nombre": "Bienestar Vecinal",
-      "descripcion": "Grupos de apoyo y actividades recreativas para adultos mayores y personas en soledad.",
-      "etapa_actual": "Impacto",
-      "progreso": 95,
+      "nombre": "Cocina Solidaria",
+      "descripcion": "Garantizando una comida nutritiva diaria para familias locales.",
+      "etapa_actual": "Acción",
+      "progreso": 90,
       "lugar": "Lince, Lima",
-      "creado_por": "Dra. Sofía P.",
+      "creado_por": "Luciana Ochoa",
+      "visibilidad": "publica",
       "miembros": 18,
       "participantes": [
         {
@@ -399,30 +627,262 @@
           "imagen": "https://i.pravatar.cc/150?img=4"
         }
       ],
-      "unida": true,
-      "imagen":"https://cdn.prod.website-files.com/668275ac325928ea82a1ae86/669e54fc1a7c515b6cc8bfe4_Foto_soledad_pq-1.jpg",
+      "unida": false,
+      "imagen": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=600&h=320&fit=crop",
       "etapas": [
         {
           "nombre": "Idea",
-          "tareas": ["Definición"]
+          "tareas": [
+            "Definición"
+          ]
         },
         {
           "nombre": "Validación",
-          "tareas": ["Permisos locales"]
+          "tareas": [
+            "Permisos locales"
+          ]
         },
         {
           "nombre": "Organización",
-          "tareas": ["Roles definidos"]
+          "tareas": [
+            "Roles definidos"
+          ]
         },
         {
           "nombre": "Acción",
-          "tareas": ["Convocatoria de participantes", "Compra de materiales"]
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Convocatoria de participantes",
+              "descripcion": "",
+              "notas": "",
+              "estado": "COMPLETADO"
+            },
+            {
+              "id": 2,
+              "numero": 2,
+              "titulo": "Compra de materiales",
+              "descripcion": "",
+              "notas": "",
+              "estado": "EN CURSO"
+            }
+          ]
         },
         {
           "nombre": "Impacto",
-          "tareas": ["Evaluación de bienestar", "Reporte final"]
+          "tareas": [
+            "Evaluación de bienestar",
+            "Reporte final"
+          ]
         }
       ]
+    },
+    {
+      "id": 7,
+      "created_at": "2026-05-24T20:00:00.000000",
+      "categoria": "Medio ambiente o áreas verdes",
+      "nombre": "Huerto Urbano Central",
+      "descripcion": "Transformando espacios grises en pulmones verdes para el vecindario.",
+      "etapa_actual": "Acción",
+      "progreso": 75,
+      "lugar": "Centro Histórico, Lima",
+      "creado_por": "Luciana Ochoa",
+      "visibilidad": "publica",
+      "miembros": 31,
+      "unida": false,
+      "imagen": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=320&fit=crop",
+      "etapas": [
+        {
+          "nombre": "Idea",
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Definición",
+              "descripcion": "",
+              "notas": "",
+              "estado": "COMPLETADO"
+            }
+          ]
+        },
+        {
+          "nombre": "Validación",
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Permisos locales",
+              "descripcion": "",
+              "notas": "",
+              "estado": "COMPLETADO"
+            }
+          ]
+        },
+        {
+          "nombre": "Organización",
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Roles definidos",
+              "descripcion": "",
+              "notas": "",
+              "estado": "COMPLETADO"
+            }
+          ]
+        },
+        {
+          "nombre": "Acción",
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Compra de plantones",
+              "descripcion": "",
+              "notas": "",
+              "estado": "COMPLETADO"
+            },
+            {
+              "id": 2,
+              "numero": 2,
+              "titulo": "Asignar cuadrillas de riego",
+              "descripcion": "Organizar turnos semanales de riego por zona del huerto.",
+              "notas": "",
+              "estado": "EN CURSO"
+            }
+          ]
+        },
+        {
+          "nombre": "Impacto",
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "Reporte final",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "created_at": "2026-05-24T22:25:50.149Z",
+      "categoria": "Inclusión y bienestar social",
+      "nombre": "albergues para mascotas",
+      "descripcion": "mas albergues para perros y gatos",
+      "lugar": "lima callao",
+      "visibilidad": "publica",
+      "etapa_actual": "Organización",
+      "progreso": 70,
+      "creado_por": "Luciana Ochoa",
+      "miembros": 1,
+      "unida": true,
+      "imagen": "https://res.cloudinary.com/deztf4i3w/image/upload/v1779661546/activa/iniciativas/ttaui5yfcz9trkzsypu6.png",
+      "etapas": [
+        {
+          "nombre": "Idea",
+          "tareas": [
+            {
+              "id": 1,
+              "numero": 1,
+              "titulo": "buscar ong",
+              "descripcion": "",
+              "notas": "",
+              "estado": "COMPLETADO"
+            }
+          ]
+        },
+        {
+          "nombre": "Validación",
+          "tareas": [
+            {
+              "id": 2,
+              "numero": 1,
+              "titulo": "validar presupuesto",
+              "descripcion": "",
+              "notas": "",
+              "estado": "COMPLETADO"
+            }
+          ]
+        },
+        {
+          "nombre": "Organización",
+          "tareas": [
+            {
+              "id": 3,
+              "numero": 1,
+              "titulo": "buscar voluntarios",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
+        },
+        {
+          "nombre": "Acción",
+          "tareas": [
+            {
+              "id": 4,
+              "numero": 1,
+              "titulo": "construir albergue",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
+        },
+        {
+          "nombre": "Impacto",
+          "tareas": [
+            {
+              "id": 5,
+              "numero": 1,
+              "titulo": "castrar animales",
+              "descripcion": "",
+              "notas": "",
+              "estado": "PENDIENTE"
+            }
+          ]
+        }
+      ],
+      "actualizaciones": [],
+      "participantes": [],
+      "id": 8
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre_completo": "Luciana Ochoa",
+      "email": "lucianaochoa@activa.org",
+      "telefono": "+51 912 345 678",
+      "password": "activa123",
+      "ubicacion": "Lima, Perú",
+      "avatarUrl": "https://res.cloudinary.com/deztf4i3w/image/upload/v1779663303/activa/iniciativas/vpg4gmrxqei6mubdw5js.png",
+      "bio": "Apasionada por el desarrollo urbano sostenible y la participación ciudadana. Creo que las pequeñas acciones locales generan el cambio más profundo en nuestras comunidades."
+    },
+    {
+      "id": 2,
+      "nombre_completo": "Juan Pérez",
+      "email": "juan@ejemplo.com",
+      "telefono": "+51 987 654 321",
+      "password": "demo1234",
+      "ubicacion": "Santiago, Chile",
+      "avatarUrl": "https://i.pravatar.cc/300?img=12",
+      "bio": "Voluntario comprometido con proyectos educativos y ambientales en mi barrio."
+    },
+    {
+      "id": 3,
+      "nombre_completo": "María González",
+      "email": "maria@activa.pe",
+      "telefono": "+51 999 111 222",
+      "password": "maria2024",
+      "ubicacion": "Arequipa, Perú",
+      "avatarUrl": "https://i.pravatar.cc/300?img=32",
+      "bio": "Líder comunitaria enfocada en inclusión social y espacios públicos seguros."
     }
   ]
 }
