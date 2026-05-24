@@ -12,11 +12,15 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
+    "cloudinary": "^2.10.0",
     "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
     "express": "^4.21.1",
-    "json-server": "^0.17.4"
+    "json-server": "^0.17.4",
+    "multer": "^2.1.1"
   },
   "devDependencies": {
     "@types/node": "^22.7.5"
   }
+  
 }
