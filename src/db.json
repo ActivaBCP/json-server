@@ -1,0 +1,214 @@
+{
+  "iniciativas": [
+    {
+      "id": 1,
+      "categoria": "Medio ambiente",
+      "nombre": "Parque Central Limpio",
+      "descripcion": "Jornada comunitaria para revitalizar las áreas verdes del pulmón central de nuestro barrio.",
+      "etapa_actual": "Acción",
+      "progreso": 65,
+      "lugar": "La Victoria, Lima",
+      "creado_por": "Elena Martínez",
+      "miembros": 24,
+      "unida": true,
+      "imagen":"https://radionacional-v3.s3.amazonaws.com/s3fs-public/node/article/field_image/grupo-voluntarios-recogiendo-basura.jpg",
+      "etapas": [
+        {
+          "nombre": "Idea",
+          "tareas": ["Definición"]
+        },
+        {
+          "nombre": "Validación",
+          "tareas": ["Permisos locales"]
+        },
+        {
+          "nombre": "Organización",
+          "tareas": ["Roles definidos"]
+        },
+        {
+          "nombre": "Acción",
+          "tareas": ["Compra de herramientas", "Convocatoria"]
+        },
+        {
+          "nombre": "Impacto",
+          "tareas": ["Reporte final"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoria": "Educación",
+      "nombre": "Talleres de Robótica",
+      "descripcion": "Iniciativa para acercar la tecnología y la programación a jóvenes de escasos recursos.",
+      "etapa_actual": "Organización",
+      "progreso": 40,
+      "lugar": "Surco, Lima",
+      "creado_por": "Marcos Ruiz",
+      "miembros": 12,
+      "unida": false,
+      "imagen":"https://fabricum.pucp.edu.pe/wp-content/uploads/2025/11/web-robotica-y-prototipado.jpg",
+      "etapas": [
+        {
+          "nombre": "Idea",
+          "tareas": ["Definición"]
+        },
+        {
+          "nombre": "Validación",
+          "tareas": ["Permisos locales"]
+        },
+        {
+          "nombre": "Organización",
+          "tareas": ["Roles definidos", "Asignación de instructores"]
+        },
+        {
+          "nombre": "Acción",
+          "tareas": ["Compra de materiales", "Convocatoria de estudiantes"]
+        },
+        {
+          "nombre": "Impacto",
+          "tareas": ["Reporte final"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoria": "Deportes",
+      "nombre": "Multicancha Activa",
+      "descripcion": "Renovación de infraestructura deportiva y creación de ligas vecinales de básquetbol.",
+      "etapa_actual": "Impacto",
+      "progreso": 88,
+      "lugar": "Miraflores, Lima",
+      "creado_por": "Asoc. Vecinos Sur",
+      "miembros": 45,
+      "unida": true,
+      "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24_DYKblEOaetEJGDw9HHB5wU47nRJPzUWw&s",
+      "etapas": [
+        {
+          "nombre": "Idea",
+          "tareas": ["Definición"]
+        },
+        {
+          "nombre": "Validación",
+          "tareas": ["Permisos locales"]
+        },
+        {
+          "nombre": "Organización",
+          "tareas": ["Roles definidos"]
+        },
+        {
+          "nombre": "Acción",
+          "tareas": ["Reparación de cancha", "Convocatoria de equipos"]
+        },
+        {
+          "nombre": "Impacto",
+          "tareas": ["Evaluación de participación", "Reporte final"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "categoria": "Seguridad",
+      "nombre": "Barrio Iluminado",
+      "descripcion": "Instalación de luminarias LED solares en pasajes que actualmente carecen de iluminación.",
+      "etapa_actual": "Validación",
+      "progreso": 12,
+      "lugar": "Barranco, Lima",
+      "creado_por": "Carlos V.",
+      "miembros": 8,
+      "unida": false,
+      "imagen":"https://www.altagracianoticias.com/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-18-at-10.40.00-960x641.jpeg",
+      "etapas": [
+        {
+          "nombre": "Idea",
+          "tareas": ["Definición"]
+        },
+        {
+          "nombre": "Validación",
+          "tareas": ["Permisos municipales", "Evaluación técnica"]
+        },
+        {
+          "nombre": "Organización",
+          "tareas": ["Roles definidos"]
+        },
+        {
+          "nombre": "Acción",
+          "tareas": ["Compra de luminarias", "Instalación piloto"]
+        },
+        {
+          "nombre": "Impacto",
+          "tareas": ["Reporte final"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "categoria": "Cultura",
+      "nombre": "Festival de Invierno",
+      "descripcion": "Evento artístico multidisciplinario para celebrar el talento local y fomentar la unión vecinal.",
+      "etapa_actual": "Organización",
+      "progreso": 50,
+      "lugar": "San Isidro, Lima",
+      "creado_por": "Centro Cultural Activa",
+      "miembros": 30,
+      "unida": false,
+      "imagen":"https://media.foodandtravel.mx/wp-content/uploads/2015/12/harbin.jpg",
+      "etapas": [
+        {
+          "nombre": "Idea",
+          "tareas": ["Definición"]
+        },
+        {
+          "nombre": "Validación",
+          "tareas": ["Permisos locales"]
+        },
+        {
+          "nombre": "Organización",
+          "tareas": ["Roles definidos", "Selección de artistas"]
+        },
+        {
+          "nombre": "Acción",
+          "tareas": ["Montaje de escenario", "Convocatoria de público"]
+        },
+        {
+          "nombre": "Impacto",
+          "tareas": ["Reporte final"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "categoria": "Inclusión",
+      "nombre": "Bienestar Vecinal",
+      "descripcion": "Grupos de apoyo y actividades recreativas para adultos mayores y personas en soledad.",
+      "etapa_actual": "Impacto",
+      "progreso": 95,
+      "lugar": "Lince, Lima",
+      "creado_por": "Dra. Sofía P.",
+      "miembros": 18,
+      "unida": true,
+      "imagen":"https://cdn.prod.website-files.com/668275ac325928ea82a1ae86/669e54fc1a7c515b6cc8bfe4_Foto_soledad_pq-1.jpg",
+      "etapas": [
+        {
+          "nombre": "Idea",
+          "tareas": ["Definición"]
+        },
+        {
+          "nombre": "Validación",
+          "tareas": ["Permisos locales"]
+        },
+        {
+          "nombre": "Organización",
+          "tareas": ["Roles definidos"]
+        },
+        {
+          "nombre": "Acción",
+          "tareas": ["Convocatoria de participantes", "Compra de materiales"]
+        },
+        {
+          "nombre": "Impacto",
+          "tareas": ["Evaluación de bienestar", "Reporte final"]
+        }
+      ]
+    }
+  ]
+}
