@@ -2,7 +2,7 @@
   "iniciativas": [
     {
       "id": 1,
-      "categoria": "Medio ambiente",
+      "categoria": "Medio ambiente o áreas verdes",
       "nombre": "Parque Central Limpio",
       "descripcion": "Jornada comunitaria para revitalizar las áreas verdes del pulmón central de nuestro barrio.",
       "etapa_actual": "Acción",
@@ -37,7 +37,7 @@
     },
     {
       "id": 2,
-      "categoria": "Educación",
+      "categoria": "Educación o talleres",
       "nombre": "Talleres de Robótica",
       "descripcion": "Iniciativa para acercar la tecnología y la programación a jóvenes de escasos recursos.",
       "etapa_actual": "Organización",
@@ -72,7 +72,7 @@
     },
     {
       "id": 3,
-      "categoria": "Deportes",
+      "categoria": "Espacios deportivos o recreativos",
       "nombre": "Multicancha Activa",
       "descripcion": "Renovación de infraestructura deportiva y creación de ligas vecinales de básquetbol.",
       "etapa_actual": "Impacto",
@@ -107,7 +107,7 @@
     },
     {
       "id": 4,
-      "categoria": "Seguridad",
+      "categoria": "Seguridad vecinal",
       "nombre": "Barrio Iluminado",
       "descripcion": "Instalación de luminarias LED solares en pasajes que actualmente carecen de iluminación.",
       "etapa_actual": "Validación",
@@ -142,7 +142,7 @@
     },
     {
       "id": 5,
-      "categoria": "Cultura",
+      "categoria": "Cultura, arte o eventosf",
       "nombre": "Festival de Invierno",
       "descripcion": "Evento artístico multidisciplinario para celebrar el talento local y fomentar la unión vecinal.",
       "etapa_actual": "Organización",
@@ -177,7 +177,7 @@
     },
     {
       "id": 6,
-      "categoria": "Inclusión",
+      "categoria": "Inclusión y bienestar social",
       "nombre": "Bienestar Vecinal",
       "descripcion": "Grupos de apoyo y actividades recreativas para adultos mayores y personas en soledad.",
       "etapa_actual": "Impacto",
