@@ -2,6 +2,7 @@
   "iniciativas": [
     {
       "id": 1,
+      "created_at": "2026-05-24T13:59:45.123456",
       "categoria": "Medio ambiente o áreas verdes",
       "nombre": "Parque Central Limpio",
       "descripcion": "Jornada comunitaria para revitalizar las áreas verdes del pulmón central de nuestro barrio.",
@@ -12,6 +13,84 @@
       "miembros": 24,
       "unida": true,
       "imagen":"https://radionacional-v3.s3.amazonaws.com/s3fs-public/node/article/field_image/grupo-voluntarios-recogiendo-basura.jpg",
+      "actualizaciones": [
+        {
+          "id": 1,
+          "autor": "Lucía Torres",
+          "rol": "Voluntaria",
+          "fechaRelativa": "Hace 2 horas",
+          "texto": "Hoy terminamos la limpieza de la zona norte del parque y recolectamos más de 20 bolsas de residuos.",
+          "imagenUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200",
+          "likes": 18,
+          "comentarios": [
+            {
+              "id": 1,
+              "autor": "Luis",
+              "texto": "Buen avance 👍",
+              "fechaPublicacion": "2026-05-23T09:00:00"
+            }
+          ],
+          "likedByMe": true
+        },
+        {
+          "id": 2,
+          "autor": "Diego Ramos",
+          "rol": "Coordinador",
+          "fechaRelativa": "Hace 1 día",
+          "texto": "La municipalidad confirmó el préstamo de herramientas para la próxima jornada comunitaria.",
+          "likes": 11,
+          "likedByMe": false
+        },
+        {
+          "id": 3,
+          "autor": "Valeria Soto",
+          "rol": "Participante",
+          "fechaRelativa": "Hace 3 días",
+          "texto": "Ya tenemos más de 20 voluntarios inscritos para este sábado 🌱",
+          "likes": 26,
+          "comentarios": [
+            {
+              "id": 1,
+              "autor": "Carlos",
+              "texto": "Excelente trabajo 💪",
+              "fechaPublicacion": "2026-05-24T11:10:00"
+            },
+            {
+              "id": 2,
+              "autor": "Ana",
+              "texto": "Yo me uno la próxima!",
+              "fechaPublicacion": "2026-05-24T11:15:00"
+            }
+          ],
+          "likedByMe": false
+        }
+      ],
+      "participantes": [
+        {
+          "id": 1,
+          "nombre": "Lucía Torres",
+          "email": "lucia@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=1"
+        },
+        {
+          "id": 2,
+          "nombre": "Diego Ramos",
+          "email": "diego@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=2"
+        },
+        {
+          "id": 3,
+          "nombre": "Valeria Soto",
+          "email": "valeria@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=3"
+        },
+        {
+          "id": 4,
+          "nombre": "Mateo León",
+          "email": "mateo@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=4"
+        }
+      ],
       "etapas": [
         {
           "nombre": "Idea",
@@ -37,6 +116,7 @@
     },
     {
       "id": 2,
+      "created_at": "2026-05-24T13:59:45.123456",
       "categoria": "Educación o talleres",
       "nombre": "Talleres de Robótica",
       "descripcion": "Iniciativa para acercar la tecnología y la programación a jóvenes de escasos recursos.",
@@ -45,6 +125,32 @@
       "lugar": "Surco, Lima",
       "creado_por": "Marcos Ruiz",
       "miembros": 12,
+      "participantes": [
+        {
+          "id": 1,
+          "nombre": "Lucía Torres",
+          "email": "lucia@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=1"
+        },
+        {
+          "id": 2,
+          "nombre": "Diego Ramos",
+          "email": "diego@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=2"
+        },
+        {
+          "id": 3,
+          "nombre": "Valeria Soto",
+          "email": "valeria@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=3"
+        },
+        {
+          "id": 4,
+          "nombre": "Mateo León",
+          "email": "mateo@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=4"
+        }
+      ],
       "unida": false,
       "imagen":"https://fabricum.pucp.edu.pe/wp-content/uploads/2025/11/web-robotica-y-prototipado.jpg",
       "etapas": [
@@ -72,6 +178,7 @@
     },
     {
       "id": 3,
+      "created_at": "2026-05-24T13:59:45.123456",
       "categoria": "Espacios deportivos o recreativos",
       "nombre": "Multicancha Activa",
       "descripcion": "Renovación de infraestructura deportiva y creación de ligas vecinales de básquetbol.",
@@ -79,6 +186,32 @@
       "progreso": 88,
       "lugar": "Miraflores, Lima",
       "creado_por": "Asoc. Vecinos Sur",
+      "participantes": [
+        {
+          "id": 1,
+          "nombre": "Lucía Torres",
+          "email": "lucia@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=1"
+        },
+        {
+          "id": 2,
+          "nombre": "Diego Ramos",
+          "email": "diego@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=2"
+        },
+        {
+          "id": 3,
+          "nombre": "Valeria Soto",
+          "email": "valeria@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=3"
+        },
+        {
+          "id": 4,
+          "nombre": "Mateo León",
+          "email": "mateo@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=4"
+        }
+      ],
       "miembros": 45,
       "unida": true,
       "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24_DYKblEOaetEJGDw9HHB5wU47nRJPzUWw&s",
@@ -107,6 +240,7 @@
     },
     {
       "id": 4,
+      "created_at": "2026-05-24T13:59:45.123456",
       "categoria": "Seguridad vecinal",
       "nombre": "Barrio Iluminado",
       "descripcion": "Instalación de luminarias LED solares en pasajes que actualmente carecen de iluminación.",
@@ -115,6 +249,32 @@
       "lugar": "Barranco, Lima",
       "creado_por": "Carlos V.",
       "miembros": 8,
+      "participantes": [
+        {
+          "id": 1,
+          "nombre": "Lucía Torres",
+          "email": "lucia@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=1"
+        },
+        {
+          "id": 2,
+          "nombre": "Diego Ramos",
+          "email": "diego@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=2"
+        },
+        {
+          "id": 3,
+          "nombre": "Valeria Soto",
+          "email": "valeria@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=3"
+        },
+        {
+          "id": 4,
+          "nombre": "Mateo León",
+          "email": "mateo@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=4"
+        }
+      ],
       "unida": false,
       "imagen":"https://www.altagracianoticias.com/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-18-at-10.40.00-960x641.jpeg",
       "etapas": [
@@ -142,7 +302,8 @@
     },
     {
       "id": 5,
-      "categoria": "Cultura, arte o eventosf",
+      "created_at": "2026-05-24T13:59:45.123456",
+      "categoria": "Cultura, arte o eventos",
       "nombre": "Festival de Invierno",
       "descripcion": "Evento artístico multidisciplinario para celebrar el talento local y fomentar la unión vecinal.",
       "etapa_actual": "Organización",
@@ -150,6 +311,32 @@
       "lugar": "San Isidro, Lima",
       "creado_por": "Centro Cultural Activa",
       "miembros": 30,
+      "participantes": [
+        {
+          "id": 1,
+          "nombre": "Lucía Torres",
+          "email": "lucia@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=1"
+        },
+        {
+          "id": 2,
+          "nombre": "Diego Ramos",
+          "email": "diego@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=2"
+        },
+        {
+          "id": 3,
+          "nombre": "Valeria Soto",
+          "email": "valeria@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=3"
+        },
+        {
+          "id": 4,
+          "nombre": "Mateo León",
+          "email": "mateo@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=4"
+        }
+      ],
       "unida": false,
       "imagen":"https://media.foodandtravel.mx/wp-content/uploads/2015/12/harbin.jpg",
       "etapas": [
@@ -177,6 +364,7 @@
     },
     {
       "id": 6,
+      "created_at": "2026-05-24T13:59:45.123456",
       "categoria": "Inclusión y bienestar social",
       "nombre": "Bienestar Vecinal",
       "descripcion": "Grupos de apoyo y actividades recreativas para adultos mayores y personas en soledad.",
@@ -185,6 +373,32 @@
       "lugar": "Lince, Lima",
       "creado_por": "Dra. Sofía P.",
       "miembros": 18,
+      "participantes": [
+        {
+          "id": 1,
+          "nombre": "Lucía Torres",
+          "email": "lucia@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=1"
+        },
+        {
+          "id": 2,
+          "nombre": "Diego Ramos",
+          "email": "diego@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=2"
+        },
+        {
+          "id": 3,
+          "nombre": "Valeria Soto",
+          "email": "valeria@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=3"
+        },
+        {
+          "id": 4,
+          "nombre": "Mateo León",
+          "email": "mateo@activa.pe",
+          "imagen": "https://i.pravatar.cc/150?img=4"
+        }
+      ],
       "unida": true,
       "imagen":"https://cdn.prod.website-files.com/668275ac325928ea82a1ae86/669e54fc1a7c515b6cc8bfe4_Foto_soledad_pq-1.jpg",
       "etapas": [
